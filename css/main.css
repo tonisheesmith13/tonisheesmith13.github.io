@@ -104,7 +104,7 @@ a {
 }
 
 a:hover, a:focus, a:active {
-    color: #191A3F;
+    color: #FFC696;
 }
 
 a:focus {
@@ -1483,7 +1483,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 .s-header.sticky {
     position: fixed;
     top: 0;
-    background-color: #000000 !important;
+    background-color: #F776A1 !important;
     opacity: 0;
     visibility: hidden;
     z-index: 600;
